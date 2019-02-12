@@ -3,5 +3,5 @@ Repositório contendo meus trabalhos produzidos durante a disciplina de Reconhec
 
 Para melhor visualização:
 * Trabalho Computacional 01: https://nbviewer.jupyter.org/github/RomuloDrumond/Reconhecimento-de-padroes-2018/blob/master/TC1/RP-TC1.ipynb
-* Trabalho Computacional 02:
+* Trabalho Computacional 02: https://nbviewer.jupyter.org/github/RomuloDrumond/Reconhecimento-de-padroes-2018/blob/master/TC2/RP-TC2.ipynb
 * Trabalho Computacional 03:
